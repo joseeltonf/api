@@ -33,7 +33,7 @@ A estrutura do projeto é organizada em camadas, cada uma com responsabilidades 
 -   **Testes**: Desenvolver testes unitários e de integração para garantir a qualidade.
 -   **Benchmarking**: (Opcional) Explorar a adição de uma camada de benchmarking para avaliar a performance.
 
-## 💡 Sugestões Adicionais para Estudo
+## 💡 Sugestões Adicionais
 
 -   **Autenticação e Autorização**: Implementar mecanismos de segurança usando JWT ou OAuth para proteger a API.
 -   **Containerização**: Dockerizar a aplicação para facilitar o deploy e a execução em diferentes ambientes.
