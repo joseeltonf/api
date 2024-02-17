@@ -23,7 +23,7 @@ A estrutura do projeto é organizada em camadas, cada uma com responsabilidades 
 ## 🚧 Próximos Passos
 
 -   **Estruturação Adicional**: Finalizar a criação das pastas conforme o esquema inicial.
--   **CRUD para 3 Modelos**: Implementar operações CRUD para três entidades distintas.
+-   **CRUD**: Implementar operações CRUD.
 -   **Dois Contextos de Banco de Dados**: Trabalhar com Entity Framework e Dapper para demonstrar a flexibilidade na escolha de ORMs.
 -   **Organização da API Mínima**: Estruturar a programação da API para facilitar manutenção e expansão.
 -   **Middleware**: Criação de middleware personalizado para funcionalidades comuns (ex.: autenticação, logging).
